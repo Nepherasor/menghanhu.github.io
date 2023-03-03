@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Menghan Hu/Personal Site"
+title                    : "Menghan Hu's Personal Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
