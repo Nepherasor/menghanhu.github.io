@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Associate Professor and Ph.D. supervisor at East China Normal University, and a Senior Member of IEEE.
+I'm also the Director of the Rehabilitation Assistance and Health Promotion Professional Committee (preparatory) of the Shanghai Society of Image and Graphics, and was selected for the Shanghai Chen Guang Scholars Program in 2020 and the Shanghai Yangfan Talents Program in 2019. I am the Associate Editor of the SCI 2-zone journal Displays and the SCI 3-zone journal Int. J. Agr. Biol. Eng. 
+My research has always focused on the "intelligent health" strategy oriented towards the people's lives and health. Has published more than 100 papers, with 1546 citations on Google Scholar as of December 27, 2022; applied for more than 10 invention patents, successfully transferred one; participated in the formulation of two industry standards and led the formulation of one group standard. I has led more than 10 projects, including the National Natural Science Foundation of China, a project of the Central Military Commission's rapid response team, the Shanghai Science and Technology Commission, the Shanghai Education Commission, the Postdoctoral Science Foundation (first-class funding), and the Chongqing Science and Technology Commission. In 2021, led a collaborative project between industry, academia, and medicine entitled "Glaucoma Chronic Disease Management System and Intelligent Model," which has been successfully implemented and well-received by glaucoma patients and their families, and is expected to serve more than 21 million glaucoma patients in China.
+Email:mhhu@ce.ecnu.edu.cn   Address: Information Building, East China Normal University, 500 Dongchuan Road, Minhang District, Shanghai.  [Personal Page](https://faculty.ecnu.edu.cn/_s15/hmh/main.psp)
 
 A data-driven personal website
 ======
